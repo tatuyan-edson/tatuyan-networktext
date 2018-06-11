@@ -1,0 +1,316 @@
+\documentclass[a4j,12pt]{jreport}
+\makeatletter
+\usepackage{url}
+\usepackage{jtygm}
+\usepackage{ascmac}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage{listings}
+\usepackage{makeidx}
+\usepackage{ccaption}
+\usepackage{here}
+\usepackage{subfigure}
+\usepackage{enumerate}
+\usepackage[dvipdfmx]{color}
+\usepackage{fancybox}
+\usepackage{geometry}
+\usepackage{ascmac}
+\usepackage{titletoc}
+\usepackage{titlesec}
+\usepackage{framed}
+\usepackage{longtable}
+\usepackage{ulem}
+\usepackage{anyfontsize}
+\usepackage{wrapfig}
+\usepackage{bm}
+
+\renewcommand{\lstlistingname}{リスト}
+
+\newcommand{\minisec}[1]{
+\subsubsection{【#1】}
+}
+
+\geometry{
+body={384pt,574pt},
+hmargin={2.0cm,2.0cm},
+vmargin={2.5cm,2.0cm},
+bindingoffset=0.5cm,
+twoside
+}
+
+% 付録の始まり
+\newcommand{\beginappendix}{
+  % 章番号の書式変更
+  \setcounter{chapter}{0}
+  \renewcommand{\prechaptername}{付録}
+  \renewcommand{\postchaptername}{} 
+  \renewcommand{\thechapter}{\@Alph\c@chapter}
+  \renewcommand{\thesection}{\@Alph\c@chapter.\@arabic\c@section}
+  \renewcommand{\thesubsection}{\@Alph\c@chapter.\@arabic\c@section.\@arabic\c@subsection}
+}
+
+%図番号の書式変更
+  \renewcommand{\thefigure}{%
+  \thechapter.\arabic{figure}}
+  \@addtoreset{figure}{chapter}
+\makeatother
+
+
+\newcommand{\ruby}[2]{%
+\leavevmode
+\setbox0=\hbox{#1}%
+\setbox1=\hbox{\tiny #2}%
+\ifdim\wd0>\wd1 \dimen0=\wd0 \else \dimen0=\wd1 \fi
+\hbox{%
+\kanjiskip=0pt plus 2fil
+\xkanjiskip=0pt plus 2fil
+\vbox{%
+\hbox to \dimen0{%
+\tiny \hfil#2\hfil}%
+\nointerlineskip
+\hbox to \dimen0{\mathstrut\hfil#1\hfil}}}}
+
+\makeatletter
+\lstset{% 
+language={C}, 
+frame=trbl,% 
+basicstyle={\small},% 
+identifierstyle={\small},% 
+commentstyle={\small\ttfamily},% 
+keywordstyle={\small\bfseries},% 
+ndkeywordstyle={\small},% 
+stringstyle={\small\ttfamily}, 
+tabsize=2,
+breaklines=true, 
+frame=none,
+columns=[l]{fullflexible},% 
+numbers=left,% 
+xrightmargin=0zw,% 
+xleftmargin=3zw,% 
+numberstyle={\scriptsize},% 
+stepnumber=1, 
+numbersep=1zw,% 
+backgroundcolor={\color[gray]{.90}},
+} 
+
+%footnoteにおいてverbを有効にする設定
+\long\def\@footnotetext{%
+  \insert\footins\bgroup
+    \normalfont\footnotesize
+    \interlinepenalty\interfootnotelinepenalty
+    \splittopskip\footnotesep
+    \splitmaxdepth \dp\strutbox \floatingpenalty \@MM
+    \hsize\columnwidth \@parboxrestore
+    \protected@edef\@currentlabel{%
+       \csname p@footnote\endcsname\@thefnmark
+    }%
+    \color@begingroup
+      \@makefntext{%
+        \rule\z@\footnotesep\ignorespaces}%
+      \futurelet\next\fo@t}
+\def\fo@t{\ifcat\bgroup\noexpand\next \let\next\f@@t
+                                \else \let\next\f@t\fi \next}
+\def\fo@t{\bgroup\aftergroup\@foot\let\next}
+\def\f@t#1{#1\@foot}
+\def\@foot{\@finalstrut\strutbox\color@endgroup\egroup}
+
+\renewcommand{\seename}{→}
+\makeatother
+
+%-----目次及び見出し-----
+\contentsmargin{0pt}
+  \titlecontents{chapter}[5.6pc]
+  {\addvspace{10pt}\bfseries}
+  {\contentslabel[\thecontentslabel]{4.6pc}}
+  {}
+  {\hfill\normalfont\thecontentspage}
+
+  \titlecontents{section}[4.8pc]
+  {\addvspace{4pt}\bfseries}
+  {\contentslabel[\thecontentslabel]{2.8pc}}
+  {}
+  {\dotfill\thecontentspage}
+
+  \titlecontents{subsection}[6.4pc]
+  {\addvspace{2pt} }
+  {\contentslabel[\thecontentslabel]{3.4pc}}
+  {}
+  {\dotfill\normalfont \thecontentspage }
+
+ \titleformat{\chapter}[frame]
+  {\small}
+  {\filright
+   \large
+  第 \thechapter 章}
+  {8pt}
+  {\LARGE\bfseries\filcenter}
+
+\titleformat{\section}[hang]{\large\bfseries}
+{\colorbox{black}{\color{white}\thesection}}{12pt}{}%
+[{\titlerule[1pt]}]
+
+\titleformat{\subsection}[block]
+{\normalfont\bfseries}{\fbox{\itshape\thesubsection}}{1em}{}
+[{\titlerule[0.5pt]}]
+
+ \titlespacing{\chapter}{0pt}{4pt plus 2pt minus 1pt}{2pt plus 2pt minus 2pt}
+ \titlespacing{\section}{0pt}{0pt plus 0pt minus 0pt}{0pt plus 0pt minus 0pt}
+ \titlespacing{\subsection}{0pt}{0pt plus 0pt minus 0pt}{0pt plus 0pt minus 0pt}
+\newenvironment{code}{
+\VerbatimEnvironment
+\begin{quote}
+\begin{Verbatim}	
+}
+{
+\end{Verbatim}
+\end{quote}
+}
+
+\newenvironment{problems}
+{
+  \renewcommand\labelenumi{\doublebox{\arabic{enumi}}}
+  \begin{enumerate}
+}{
+  \end{enumerate}
+  \renewcommand\labelenumi{\arabic{enumi}.}
+}
+
+
+\makeindex
+
+\begin{document}
+\makeatletter
+\renewcommand{\thelstlisting}{\thechapter.\@arabic\c@lstlisting}
+\makeatother
+
+\title{{\normalsize 人の言を通す}\\ 通信ひとわたり}
+\author{達哉ん}
+\date{2018年6月執筆開始}
+\maketitle
+%\begin{titlepage}
+%\vspace{24pt}
+%\textbf{\large 理論と実習の両面から学ぶ}
+%\begin{center}
+%\includegraphics[width=0.95\linewidth,keepaspectratio]{title1.eps}
+%\end{center}
+%\vspace{120pt}
+%\begin{center}
+%\includegraphics[width=0.75\linewidth,keepaspectratio]{title2.eps}
+%\end{center}
+%\vspace{120pt}
+%\begin{flushright}
+%\textbf{\LARGE 達哉ん 著}
+%\end{flushright}
+%\end{titlepage}
+%\newpage
+
+\setlength{\parskip}{3ex plus 0.8ex minus 0.4ex}
+
+\pagenumbering{roman}
+\chapter*{はじめに}
+\input{start}
+
+\setlength{\parskip}{1ex plus 0.0ex minus 0.0ex}
+\tableofcontents
+
+\newpage
+
+\setlength{\parskip}{3ex plus 0.8ex minus 0.4ex}
+\pagenumbering{arabic}
+\setcounter{chapter}{-1}
+\chapter{「伝える」歴史}
+\input{chap00}
+
+\part{情報の記録}
+
+\chapter{デジタルデータの記録}
+
+\chapter{アナログデータの記録}
+
+\chapter{情報の圧縮}
+
+
+\part{電気伝送の方法}
+
+\chapter{電気信号の同期}
+
+\chapter{変調}
+
+\chapter{伝送品質の担保}
+
+\chapter{伝送路の方式}
+
+\chapter{電気通信網の構成}
+
+
+\part{コンピュータ・ネットワークの基礎}
+
+\chapter{通信プロトコル}
+
+\chapter{コンピュータ・ネットワークの構成}
+
+\chapter{ネットワークアーキテクチャ}
+
+\chapter{ネットワーク機器}
+
+\chapter{Layer1：物理層}
+
+\chapter{Layer2：データリンク層}
+
+\chapter{Layer3：ネットワーク層 (1)IPとアドレス}
+
+\chapter{Layer3：ネットワーク層 (2)ルーティング}
+
+\chapter{Layer4：トランスポート層}
+
+\chapter{Layer5〜7：上位3層}
+
+
+\part{ネットワーク・プロトコル}
+
+\chapter{ネットワークモデル・再論}
+
+\chapter{telnet}
+
+\chapter{DNS}
+
+\chapter{DHCP}
+
+\chapter{FTP}
+
+\chapter{HTTP}
+
+\chapter{メールに纏わるプロトコル} %SMTP,POP3,IMAP
+
+\chapter{認証に纏わるプロトコル} %Kerberos,LDAP
+
+
+\part{安定通信網の構築と運用}
+
+\chapter{冗長化}
+
+\chapter{セキュリティ}
+
+\chapter{トラブルシューティング手法の基礎}
+
+
+%\beginappendix
+%\chapter{簡易リファレンス}
+%\input{AppendixA}
+
+%\chapter{一部解説の付記}
+%\input{AppendixB}
+
+%\chapter{Cに関連したWebサービス}
+%\input{AppendixC}
+
+%\chapter*{参考書籍等紹介}
+%\input{book}
+
+%\chapter*{おわりに}
+%\input{last}
+
+\printindex
+
+\end{document}
