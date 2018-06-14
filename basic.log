@@ -1,7 +1,7 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  11 JUN 2018 20:07
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  14 JUN 2018 19:54
 entering extended mode
  %&-line parsing enabled.
-**basic
+**basic.tex
 (./basic.tex
 pLaTeX2e <2016/05/07> (based on LaTeX2e <2016/03/31>)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
@@ -506,144 +506,167 @@ File: fig/fig0_1.jpg Graphic file (type bmp)
 
 ] [2] [3]
 File: fig/fig0_2.jpg Graphic file (type bmp)
- <fig/fig0_2.jpg> [4] [5]) [6]
-[7
+ <fig/fig0_2.jpg> [4] [5]
 
-] [8]
-第 1 章
-[9
+LaTeX Warning: Reference `0_4' on page 6 undefined on input line 86.
 
-]
-第 2 章
-[10
+File: fig/fig0_4.png Graphic file (type bmp)
+<fig/fig0_4.png>
 
-]
-第 3 章
-[11
+LaTeX Warning: Float too large for page by 16.50787pt on input line 94.
 
-] [12
+[6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
+ [8]
+File: fig/fig0_3.jpg Graphic file (type bmp)
+
+<fig/fig0_3.jpg> [9] [10]) [11] [12
 
 ] [13]
-第 4 章
+第 1 章
 [14
 
 ]
-第 5 章
+第 2 章
 [15
 
 ]
-第 6 章
+第 3 章
 [16
 
-]
-第 7 章
-[17
+] [17
+
+] [18]
+第 4 章
+[19
 
 ]
-第 8 章
-[18
+第 5 章
+[20
 
-] [19
-
-] [20]
-第 9 章
+]
+第 6 章
 [21
 
 ]
-第 10 章
+第 7 章
 [22
 
 ]
-第 11 章
+第 8 章
 [23
 
-]
-第 12 章
-[24
+] [24
 
-]
-第 13 章
-[25
-
-]
-第 14 章
+] [25]
+第 9 章
 [26
 
 ]
-第 15 章
+第 10 章
 [27
 
 ]
-第 16 章
+第 11 章
 [28
 
 ]
-第 17 章
+第 12 章
 [29
 
 ]
-第 18 章
+第 13 章
 [30
 
-] [31
+]
+第 14 章
+[31
 
-] [32]
-第 19 章
+]
+第 15 章
+[32
+
+]
+第 16 章
 [33
 
 ]
-第 20 章
+第 17 章
 [34
 
 ]
-第 21 章
+第 18 章
 [35
 
-]
-第 22 章
-[36
+] [36
 
-]
-第 23 章
-[37
-
-]
-第 24 章
+] [37]
+第 19 章
 [38
 
 ]
-第 25 章
+第 20 章
 [39
 
 ]
-第 26 章
+第 21 章
 [40
 
-] [41
+]
+第 22 章
+[41
 
-] [42]
-第 27 章
+]
+第 23 章
+[42
+
+]
+第 24 章
 [43
 
 ]
-第 28 章
+第 25 章
 [44
 
 ]
-第 29 章
-(./basic.ind [45
+第 26 章
+[45
 
 ] [46
 
+] [47]
+第 27 章
+[48
 
-]) (./basic.aux) ) 
+]
+第 28 章
+[49
+
+]
+第 29 章
+(./basic.ind [50
+
+] [51
+
+
+]) (./basic.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5285 strings out of 493693
- 71617 string characters out of 6149787
+ 5374 strings out of 493693
+ 72595 string characters out of 6149787
  181619 words of memory out of 5000000
- 8724 multiletter control sequences out of 15000+600000
- 21785 words of font info for 86 fonts, out of 8000000 for 9000
+ 8778 multiletter control sequences out of 15000+600000
+ 31146 words of font info for 121 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,8n,49p,1002b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,8n,49p,1006b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (52 pages, 58572 bytes).
+Output written on basic.dvi (57 pages, 89272 bytes).

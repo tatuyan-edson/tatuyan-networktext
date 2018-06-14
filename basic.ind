@@ -1,7 +1,30 @@
 
 \begin{theindex}
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item IETF\dotfill 8
+  \item Internet Engineering Task Force\dotfill \see{IETF}{8}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small R\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item Request For Comments\dotfill \see{RFC}{8}
+  \item RFC\dotfill 8
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 暗号\dotfill 9
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 口伝\dotfill 2
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item シーザー暗号\dotfill 9
+  \item ジョークRFC\dotfill 8
 
  \end{theindex}
