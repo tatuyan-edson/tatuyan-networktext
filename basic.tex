@@ -154,9 +154,15 @@ backgroundcolor={\color[gray]{.90}},
 {\normalfont\bfseries}{\fbox{\itshape\thesubsection}}{1em}{}
 [{\titlerule[0.5pt]}]
 
+\titleformat{\subsubsection}
+{\normalfont\bfseries}{\itshape\thesubsubsection}{1em}{\doublebox}
+
+
  \titlespacing{\chapter}{0pt}{4pt plus 2pt minus 1pt}{2pt plus 2pt minus 2pt}
  \titlespacing{\section}{0pt}{0pt plus 0pt minus 0pt}{0pt plus 0pt minus 0pt}
  \titlespacing{\subsection}{0pt}{0pt plus 0pt minus 0pt}{0pt plus 0pt minus 0pt}
+ \titlespacing{\subsubsection}{0pt}{0pt plus 0pt minus 0pt}{0pt plus 0pt minus 0pt}
+
 \newenvironment{code}{
 \VerbatimEnvironment
 \begin{quote}
@@ -225,6 +231,7 @@ backgroundcolor={\color[gray]{.90}},
 \part{情報の記録}
 
 \chapter{デジタルデータの記録}
+\input{chap01}
 
 \chapter{アナログデータの記録}
 

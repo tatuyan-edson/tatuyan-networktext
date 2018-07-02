@@ -1,9 +1,25 @@
 
 \begin{theindex}
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small 1-9\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 2の補数\dotfill 17
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small B\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item bit\dotfill 17
+  \item byte\dotfill 17
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item IETF\dotfill 8
   \item Internet Engineering Task Force\dotfill \see{IETF}{8}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small O\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item octet\dotfill 17
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small R\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -14,17 +30,44 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 圧縮\dotfill 20
   \item 暗号\dotfill 9
+  \item エントロピー符号\dotfill 21
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 基数\dotfill 15
+  \item 記数法\dotfill 15
   \item 口伝\dotfill 2
+  \item 位取り記数法\dotfill 15
+  \item 固定小数点数表現\dotfill 19, 20
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item シーザー暗号\dotfill 9
+  \item 10進数\dotfill 15
+  \item 10進法\dotfill 15
   \item ジョークRFC\dotfill 8
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small な\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 二元状態\dotfill 14
+  \item 2進法\dotfill 15
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item ハフマン符号\dotfill 21
+  \item 符号化\dotfill 17
+  \item 浮動小数点数表現\dotfill 19, 20
+  \item 補数\dotfill 18
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ま\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 文字コード\dotfill 19
 
  \end{theindex}

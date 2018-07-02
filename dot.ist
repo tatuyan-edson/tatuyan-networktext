@@ -15,7 +15,7 @@ lethead_prefix
 lethead_suffix
 "\\hfill}\\par\n\\nopagebreak\n"
 lethead_flag       1
-symbol             "‹L†^”š"
+symbol             "1-9"
 letter_head        2
 % makeindex
 heading_prefix
