@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  2 JUL 2018 20:38
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  2 JUL 2018 21:31
 entering extended mode
  %&-line parsing enabled.
 **basic.tex
@@ -669,4 +669,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  27i,9n,49p,1006b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (64 pages, 143744 bytes).
+Output written on basic.dvi (64 pages, 143684 bytes).
