@@ -2,7 +2,7 @@
 \begin{theindex}
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small 1-9\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item 2の補数\dotfill 17
+  \item 2の補数\dotfill 18
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small B\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -11,10 +11,25 @@
   \item byte\dotfill 17
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small C\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item CBT符号\dotfill 25
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item IETF\dotfill 8
   \item Internet Engineering Task Force\dotfill \see{IETF}{8}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small K\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item KZ符号\dotfill 25
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small L\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item LZ78\dotfill 27
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small O\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -30,26 +45,40 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item 圧縮\dotfill 20
+  \item 圧縮\dotfill 22
+  \item アルファ符号\dotfill 24
   \item 暗号\dotfill 9
-  \item エントロピー符号\dotfill 21
+  \item エンコード\dotfill 17
+  \item エントロピー符号\dotfill 24
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 可逆圧縮\dotfill 23
+  \item ガンマ符号\dotfill 25
   \item 基数\dotfill 15
   \item 記数法\dotfill 15
   \item 口伝\dotfill 2
   \item 位取り記数法\dotfill 15
-  \item 固定小数点数表現\dotfill 19, 20
+  \item 固定小数点数表現\dotfill 21
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 差分圧縮\dotfill 29
   \item シーザー暗号\dotfill 9
+  \item 辞書式符号\dotfill 27
   \item 10進数\dotfill 15
   \item 10進法\dotfill 15
+  \item シャノンの情報源符号化定理\dotfill 26
   \item ジョークRFC\dotfill 8
+  \item 増分分解法\dotfill 29
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item デルタ圧縮\dotfill 29
+  \item 動的辞書法\dotfill 27
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small な\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -60,14 +89,31 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item ハフマン符号\dotfill 21
+  \item バイト対符号化\dotfill 27
+  \item ハフマン符号\dotfill 26
+  \item 非可逆圧縮\dotfill 23
+  \item フィボナッチ符号\dotfill 25
+  \item 不可逆圧縮\dotfill 23
   \item 符号化\dotfill 17
-  \item 浮動小数点数表現\dotfill 19, 20
+  \item 浮動小数点数表現\dotfill 21
+  \item 平均符号長\dotfill 22
   \item 補数\dotfill 18
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ま\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item モールス符号\dotfill 19
   \item 文字コード\dotfill 19
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small や\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item ユニバーサル符号\dotfill 27
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ら\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item ランレングス\dotfill 29
+  \item 連長圧縮\dotfill \see{ランレングス}{29}
 
  \end{theindex}

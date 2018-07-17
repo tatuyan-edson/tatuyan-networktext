@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  2 JUL 2018 21:31
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  17 JUL 2018 20:49
 entering extended mode
  %&-line parsing enabled.
 **basic.tex
@@ -537,136 +537,131 @@ Overfull \hbox (5.24203pt too wide) in paragraph at lines 48--49
 り、 \OT1/cmr/m/n/12 0,1,10,11,...
  []
 
-[15] [16] [17] [18] [19] [20]) [21]
+[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
+File: fig/fig1_1.eps Graphic file (type eps)
+ <fig/fig1_1.eps>
+[26] [27] [28] [29]) [30]
 第 2 章
-[22
+[31
 
-]
+] [32
+
+] [33]
 第 3 章
-[23
-
-] [24
-
-] [25]
-第 4 章
-[26
-
-]
-第 5 章
-[27
-
-]
-第 6 章
-[28
-
-]
-第 7 章
-[29
-
-]
-第 8 章
-[30
-
-] [31
-
-] [32]
-第 9 章
-[33
-
-]
-第 10 章
 [34
 
 ]
-第 11 章
+第 4 章
 [35
 
 ]
-第 12 章
+第 5 章
 [36
 
 ]
-第 13 章
+第 6 章
 [37
 
-]
-第 14 章
-[38
+] [38
 
-]
-第 15 章
-[39
-
-]
-第 16 章
+] [39]
+第 7 章
 [40
 
 ]
-第 17 章
+第 8 章
 [41
 
 ]
-第 18 章
+第 9 章
 [42
 
-] [43
+]
+第 10 章
+[43
 
-] [44]
-第 19 章
+]
+第 11 章
+[44
+
+]
+第 12 章
 [45
 
 ]
-第 20 章
+第 13 章
 [46
 
 ]
-第 21 章
+第 14 章
 [47
 
 ]
-第 22 章
+第 15 章
 [48
 
 ]
-第 23 章
+第 16 章
 [49
 
-]
-第 24 章
-[50
+] [50
 
-]
-第 25 章
-[51
-
-]
-第 26 章
+] [51]
+第 17 章
 [52
 
-] [53
+]
+第 18 章
+[53
 
-] [54]
-第 27 章
+]
+第 19 章
+[54
+
+]
+第 20 章
 [55
 
 ]
-第 28 章
+第 21 章
 [56
 
 ]
-第 29 章
-(./basic.ind [57
+第 22 章
+[57
 
-] [58
+]
+第 23 章
+[58
+
+]
+第 24 章
+[59
+
+] [60
+
+] [61]
+第 25 章
+[62
+
+]
+第 26 章
+[63
+
+]
+第 27 章
+(./basic.ind [64
+
+] [65
 
 ]) (./basic.aux) ) 
 Here is how much of TeX's memory you used:
- 5386 strings out of 493693
- 72777 string characters out of 6149787
- 185619 words of memory out of 5000000
- 8786 multiletter control sequences out of 15000+600000
- 31335 words of font info for 122 fonts, out of 8000000 for 9000
+ 5396 strings out of 493693
+ 72872 string characters out of 6149787
+ 221619 words of memory out of 5000000
+ 8793 multiletter control sequences out of 15000+600000
+ 31504 words of font info for 123 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,9n,49p,1006b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,11n,49p,1006b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (64 pages, 143684 bytes).
+Output written on basic.dvi (71 pages, 208944 bytes).
