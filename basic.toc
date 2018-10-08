@@ -49,33 +49,47 @@
 \contentsline {subsubsection}{ランレングス(RLE)}{29}
 \contentsline {subsection}{\numberline {1.3.5}差分(デルタ)圧縮}{29}
 \contentsline {chapter}{\numberline {第2章}アナログデータの記録}{31}
-\contentsline {part}{第II部\hspace {1em}電気伝送の方法}{32}
-\contentsline {chapter}{\numberline {第3章}電気信号の同期}{34}
-\contentsline {chapter}{\numberline {第4章}変調}{35}
-\contentsline {chapter}{\numberline {第5章}伝送品質の担保}{36}
-\contentsline {chapter}{\numberline {第6章}伝送路の方式}{37}
-\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{38}
-\contentsline {chapter}{\numberline {第7章}通信プロトコル}{40}
-\contentsline {chapter}{\numberline {第8章}ネットワークの構成}{41}
-\contentsline {chapter}{\numberline {第9章}ネットワークアーキテクチャ}{42}
-\contentsline {chapter}{\numberline {第10章}ネットワーク機器}{43}
-\contentsline {chapter}{\numberline {第11章}Layer1：物理層}{44}
-\contentsline {chapter}{\numberline {第12章}Layer2：データリンク層}{45}
-\contentsline {chapter}{\numberline {第13章}Layer3：ネットワーク層 (1)IPとアドレス}{46}
-\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (2)ルーティング}{47}
-\contentsline {chapter}{\numberline {第15章}Layer4：トランスポート層}{48}
-\contentsline {chapter}{\numberline {第16章}Layer5～7：上位3層}{49}
-\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{50}
-\contentsline {chapter}{\numberline {第17章}ネットワークモデル・再論}{52}
-\contentsline {chapter}{\numberline {第18章}telnet}{53}
-\contentsline {chapter}{\numberline {第19章}DNS}{54}
-\contentsline {chapter}{\numberline {第20章}DHCP}{55}
-\contentsline {chapter}{\numberline {第21章}FTP}{56}
-\contentsline {chapter}{\numberline {第22章}HTTP}{57}
-\contentsline {chapter}{\numberline {第23章}メールに纏わるプロトコル}{58}
-\contentsline {chapter}{\numberline {第24章}認証に纏わるプロトコル}{59}
-\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{60}
-\contentsline {chapter}{\numberline {第25章}冗長化}{62}
-\contentsline {chapter}{\numberline {第26章}セキュリティ}{63}
-\contentsline {chapter}{\numberline {第27章}トラブルシューティング手法の基礎}{64}
+\contentsline {section}{\numberline {2.1}連続データの記録}{31}
+\contentsline {subsection}{\numberline {2.1.1}光の保存例：写真}{31}
+\contentsline {subsection}{\numberline {2.1.2}音の保存例：レコード}{32}
+\contentsline {subsection}{\numberline {2.1.3}運動の保存例：地震計}{32}
+\contentsline {section}{\numberline {2.2}デジタルデータへの変換}{33}
+\contentsline {section}{\numberline {2.3}アナログデータの標本化}{34}
+\contentsline {subsection}{\numberline {2.3.1}Fourierの夢}{34}
+\contentsline {subsection}{\numberline {2.3.2}【補遺】Fourier展開の数学的議論}{35}
+\contentsline {subsection}{\numberline {2.3.3}標本化定理}{36}
+\contentsline {subsection}{\numberline {2.3.4}【補遺】標本化定理の証明の概要}{36}
+\contentsline {section}{\numberline {2.4}標本値の量子化}{37}
+\contentsline {subsection}{\numberline {2.4.1}量子化雑音}{38}
+\contentsline {section}{\numberline {2.5}量子化値の符号化}{39}
+\contentsline {section}{\numberline {2.6}値の復元}{39}
+\contentsline {part}{第II部\hspace {1em}電気伝送の方法}{40}
+\contentsline {chapter}{\numberline {第3章}電気信号の同期}{42}
+\contentsline {chapter}{\numberline {第4章}変調}{43}
+\contentsline {chapter}{\numberline {第5章}伝送品質の担保}{44}
+\contentsline {chapter}{\numberline {第6章}伝送路の方式}{45}
+\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{46}
+\contentsline {chapter}{\numberline {第7章}通信プロトコル}{48}
+\contentsline {chapter}{\numberline {第8章}ネットワークの構成}{49}
+\contentsline {chapter}{\numberline {第9章}ネットワークアーキテクチャ}{50}
+\contentsline {chapter}{\numberline {第10章}ネットワーク機器}{51}
+\contentsline {chapter}{\numberline {第11章}Layer1：物理層}{52}
+\contentsline {chapter}{\numberline {第12章}Layer2：データリンク層}{53}
+\contentsline {chapter}{\numberline {第13章}Layer3：ネットワーク層 (1)IPとアドレス}{54}
+\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (2)ルーティング}{55}
+\contentsline {chapter}{\numberline {第15章}Layer4：トランスポート層}{56}
+\contentsline {chapter}{\numberline {第16章}Layer5～7：上位3層}{57}
+\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{58}
+\contentsline {chapter}{\numberline {第17章}ネットワークモデル・再論}{60}
+\contentsline {chapter}{\numberline {第18章}telnet}{61}
+\contentsline {chapter}{\numberline {第19章}DNS}{62}
+\contentsline {chapter}{\numberline {第20章}DHCP}{63}
+\contentsline {chapter}{\numberline {第21章}FTP}{64}
+\contentsline {chapter}{\numberline {第22章}HTTP}{65}
+\contentsline {chapter}{\numberline {第23章}メールに纏わるプロトコル}{66}
+\contentsline {chapter}{\numberline {第24章}認証に纏わるプロトコル}{67}
+\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{68}
+\contentsline {chapter}{\numberline {第25章}冗長化}{70}
+\contentsline {chapter}{\numberline {第26章}セキュリティ}{71}
+\contentsline {chapter}{\numberline {第27章}トラブルシューティング手法の基礎}{72}
 \contentsfinish 

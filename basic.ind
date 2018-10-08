@@ -16,6 +16,12 @@
   \item CBT符号\dotfill 25
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small F\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item Fourier展開\dotfill 35
+  \item Fourier変換\dotfill 35
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item IETF\dotfill 8
@@ -66,13 +72,18 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 差分圧縮\dotfill 29
+  \item サンプリング周波数\dotfill 36
+  \item サンプリング定理\dotfill \see{標本化定理}{36}
   \item シーザー暗号\dotfill 9
   \item 辞書式符号\dotfill 27
   \item 10進数\dotfill 15
   \item 10進法\dotfill 15
   \item シャノンの情報源符号化定理\dotfill 26
+  \item 周波数\dotfill 35
+  \item 周波数スペクトル\dotfill 35
   \item ジョークRFC\dotfill 8
   \item 増分分解法\dotfill 29
+  \item 染谷・シャノンの定理\dotfill \see{標本化定理}{36}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -83,6 +94,9 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small な\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item ナイキスト・シャノンの定理\dotfill \see{標本化定理}{36}
+  \item ナイキスト周波数\dotfill 36
+  \item ナイキストの定理\dotfill \see{標本化定理}{36}
   \item 二元状態\dotfill 14
   \item 2進法\dotfill 15
 
@@ -92,9 +106,11 @@
   \item バイト対符号化\dotfill 27
   \item ハフマン符号\dotfill 26
   \item 非可逆圧縮\dotfill 23
+  \item 標本化\dotfill 33
+  \item 標本化定理\dotfill 36
   \item フィボナッチ符号\dotfill 25
   \item 不可逆圧縮\dotfill 23
-  \item 符号化\dotfill 17
+  \item 符号化\dotfill 17, 33
   \item 浮動小数点数表現\dotfill 21
   \item 平均符号長\dotfill 22
   \item 補数\dotfill 18
@@ -114,6 +130,8 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ら\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item ランレングス\dotfill 29
+  \item 量子化\dotfill 33
+  \item 量子化雑音\dotfill 38
   \item 連長圧縮\dotfill \see{ランレングス}{29}
 
  \end{theindex}

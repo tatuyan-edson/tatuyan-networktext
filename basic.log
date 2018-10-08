@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  17 JUL 2018 20:49
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  8 OCT 2018 23:43
 entering extended mode
  %&-line parsing enabled.
 **basic.tex
@@ -494,11 +494,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]) [2] (./basic.toc [3
 
-] [4])
+] [4] [5])
 \tf@toc=\write5
 \openout5 = `basic.toc'.
 
- [5]
+ [6]
 第 0 章
 (./chap00.tex
 File: fig/fig0_1.jpg Graphic file (type bmp)
@@ -542,126 +542,137 @@ File: fig/fig1_1.eps Graphic file (type eps)
  <fig/fig1_1.eps>
 [26] [27] [28] [29]) [30]
 第 2 章
-[31
+(./chap02.tex
+File: fig/fig2_1.png Graphic file (type bmp)
+ <fig/fig2_1.png> [31
 
-] [32
+]
+File: fig/fig2_2.png Graphic file (type bmp)
+ <fig/fig2_2.png> [32] [33]
+File: fig/fig2_3.png Graphic file (type bmp)
 
-] [33]
+<fig/fig2_3.png> [34] [35] [36]
+File: fig/fig2_4.eps Graphic file (type eps)
+ <fig/fig2_4.eps> [37] [38]) [39] [40
+
+] [41]
 第 3 章
-[34
-
-]
-第 4 章
-[35
-
-]
-第 5 章
-[36
-
-]
-第 6 章
-[37
-
-] [38
-
-] [39]
-第 7 章
-[40
-
-]
-第 8 章
-[41
-
-]
-第 9 章
 [42
 
 ]
-第 10 章
+第 4 章
 [43
 
 ]
-第 11 章
+第 5 章
 [44
 
 ]
-第 12 章
+第 6 章
 [45
 
-]
-第 13 章
-[46
+] [46
 
-]
-第 14 章
-[47
-
-]
-第 15 章
+] [47]
+第 7 章
 [48
 
 ]
-第 16 章
+第 8 章
 [49
 
-] [50
+]
+第 9 章
+[50
 
-] [51]
-第 17 章
+]
+第 10 章
+[51
+
+]
+第 11 章
 [52
 
 ]
-第 18 章
+第 12 章
 [53
 
 ]
-第 19 章
+第 13 章
 [54
 
 ]
-第 20 章
+第 14 章
 [55
 
 ]
-第 21 章
+第 15 章
 [56
 
 ]
-第 22 章
+第 16 章
 [57
 
-]
-第 23 章
-[58
+] [58
+
+] [59]
+第 17 章
+[60
 
 ]
-第 24 章
-[59
+第 18 章
+[61
 
-] [60
-
-] [61]
-第 25 章
+]
+第 19 章
 [62
 
 ]
-第 26 章
+第 20 章
 [63
 
 ]
-第 27 章
-(./basic.ind [64
+第 21 章
+[64
 
-] [65
+]
+第 22 章
+[65
+
+]
+第 23 章
+[66
+
+]
+第 24 章
+[67
+
+] [68
+
+] [69]
+第 25 章
+[70
+
+]
+第 26 章
+[71
+
+]
+第 27 章
+(./basic.ind [72
+
+] [73
+
+] [74
 
 ]) (./basic.aux) ) 
 Here is how much of TeX's memory you used:
- 5396 strings out of 493693
- 72872 string characters out of 6149787
+ 5413 strings out of 493693
+ 73044 string characters out of 6149787
  221619 words of memory out of 5000000
- 8793 multiletter control sequences out of 15000+600000
+ 8803 multiletter control sequences out of 15000+600000
  31504 words of font info for 123 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  27i,11n,49p,1006b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (71 pages, 208944 bytes).
+Output written on basic.dvi (81 pages, 261576 bytes).
