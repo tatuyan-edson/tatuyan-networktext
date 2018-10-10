@@ -18,6 +18,7 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small F\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item FDD\dotfill \see{周波数分割複信}{47}
   \item Fourier展開\dotfill 35
   \item Fourier変換\dotfill 35
 
@@ -49,11 +50,24 @@
   \item RFC\dotfill 8
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small S\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item S/N比\dotfill \see{信号対雑音比}{43}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small T\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item TDD\dotfill \see{時分割複信}{45}
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 圧縮\dotfill 22
   \item アルファ符号\dotfill 24
   \item 暗号\dotfill 9
+  \item 安定基準\dotfill 44
+  \item インパルス性雑音\dotfill 43
+  \item エコーキャンセラ方式\dotfill 47
   \item エンコード\dotfill 17
   \item エントロピー符号\dotfill 24
 
@@ -61,6 +75,7 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 可逆圧縮\dotfill 23
+  \item 干渉信号\dotfill 43
   \item ガンマ符号\dotfill 25
   \item 基数\dotfill 15
   \item 記数法\dotfill 15
@@ -71,6 +86,7 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 雑音\dotfill 43
   \item 差分圧縮\dotfill 29
   \item サンプリング周波数\dotfill 36
   \item サンプリング定理\dotfill \see{標本化定理}{36}
@@ -78,17 +94,25 @@
   \item 辞書式符号\dotfill 27
   \item 10進数\dotfill 15
   \item 10進法\dotfill 15
+  \item 時分割複信\dotfill 45
   \item シャノンの情報源符号化定理\dotfill 26
   \item 周波数\dotfill 35
   \item 周波数スペクトル\dotfill 35
+  \item 周波数分割複信\dotfill 47
   \item ジョークRFC\dotfill 8
+  \item 信号対雑音比\dotfill 43
+  \item スニーカーネット\dotfill 42
+  \item 接続基準\dotfill 44
+  \item 全二重通信\dotfill 46
   \item 増分分解法\dotfill 29
   \item 染谷・シャノンの定理\dotfill \see{標本化定理}{36}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 単方向通信\dotfill 45
   \item デルタ圧縮\dotfill 29
+  \item 伝送基準\dotfill 44
   \item 動的辞書法\dotfill 27
 
   \indexspace
@@ -104,7 +128,9 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item バイト対符号化\dotfill 27
+  \item 白色雑音\dotfill 43
   \item ハフマン符号\dotfill 26
+  \item 半二重通信\dotfill 45
   \item 非可逆圧縮\dotfill 23
   \item 標本化\dotfill 33
   \item 標本化定理\dotfill 36
@@ -124,6 +150,7 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small や\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 有色雑音\dotfill 43
   \item ユニバーサル符号\dotfill 27
 
   \indexspace
