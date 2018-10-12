@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  11 OCT 2018 00:01
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  12 OCT 2018 23:40
 entering extended mode
  %&-line parsing enabled.
 **basic.tex
@@ -566,122 +566,132 @@ File: fig/fig3_2.eps Graphic file (type eps)
  <fig/fig3_2.eps> [45] [46])
 [47]
 第 4 章
+(./chap04.tex
+File: fig/fig4_1.eps Graphic file (type eps)
+ <fig/fig4_1.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [48
 
 ]
+File: fig/fig4_2.eps Graphic file (type eps)
+ <fig/fig4_2.eps> [49] [50]
+File: fig/fig4_3.eps Graphic file (type eps)
+ <fig/fig4_3.eps>) [51]
 第 5 章
-[49
+[52
 
 ]
 第 6 章
-[50
+[53
 
 ]
 第 7 章
-[51
-
-] [52
-
-] [53]
-第 8 章
 [54
 
-]
-第 9 章
-[55
+] [55
 
-]
-第 10 章
-[56
-
-]
-第 11 章
+] [56]
+第 8 章
 [57
 
 ]
-第 12 章
+第 9 章
 [58
 
 ]
-第 13 章
+第 10 章
 [59
 
 ]
-第 14 章
+第 11 章
 [60
 
 ]
-第 15 章
+第 12 章
 [61
 
 ]
-第 16 章
+第 13 章
 [62
 
 ]
-第 17 章
+第 14 章
 [63
 
-] [64
+]
+第 15 章
+[64
 
-] [65]
-第 18 章
+]
+第 16 章
+[65
+
+]
+第 17 章
 [66
 
-]
-第 19 章
-[67
+] [67
 
-]
-第 20 章
-[68
-
-]
-第 21 章
+] [68]
+第 18 章
 [69
 
 ]
-第 22 章
+第 19 章
 [70
 
 ]
-第 23 章
+第 20 章
 [71
 
 ]
-第 24 章
+第 21 章
 [72
 
 ]
-第 25 章
+第 22 章
 [73
 
-] [74
+]
+第 23 章
+[74
 
-] [75]
-第 26 章
+]
+第 24 章
+[75
+
+]
+第 25 章
 [76
+
+] [77
+
+] [78]
+第 26 章
+[79
 
 ]
 第 27 章
-[77
+[80
 
 ]
 第 28 章
-(./basic.ind [78
+(./basic.ind [81
 
-] [79
+] [82
 
-] [80
+] [83
 
 ]) (./basic.aux) ) 
 Here is how much of TeX's memory you used:
- 5422 strings out of 493693
- 73136 string characters out of 6149787
+ 5434 strings out of 493693
+ 73260 string characters out of 6149787
  221619 words of memory out of 5000000
- 8807 multiletter control sequences out of 15000+600000
+ 8813 multiletter control sequences out of 15000+600000
  31504 words of font info for 123 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  27i,11n,49p,1006b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (87 pages, 298988 bytes).
+Output written on basic.dvi (90 pages, 320920 bytes).

@@ -79,6 +79,7 @@
   \item ガンマ符号\dotfill 25
   \item 基数\dotfill 15
   \item 記数法\dotfill 15
+  \item キャラクタ同期方式\dotfill 50
   \item 口伝\dotfill 2
   \item 位取り記数法\dotfill 15
   \item 固定小数点数表現\dotfill 21
@@ -111,6 +112,7 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 単方向通信\dotfill 45
+  \item 調歩同期方式\dotfill 48
   \item デルタ圧縮\dotfill 29
   \item 伝送基準\dotfill 44
   \item 動的辞書法\dotfill 27
@@ -132,12 +134,17 @@
   \item ハフマン符号\dotfill 26
   \item 半二重通信\dotfill 45
   \item 非可逆圧縮\dotfill 23
+  \item ビット同期\dotfill 48
+  \item 非同期方式\dotfill 48
   \item 標本化\dotfill 33
   \item 標本化定理\dotfill 36
   \item フィボナッチ符号\dotfill 25
   \item 不可逆圧縮\dotfill 23
   \item 符号化\dotfill 17, 33
   \item 浮動小数点数表現\dotfill 21
+  \item フラグ同期方式\dotfill 50
+  \item フレーム同期方式\dotfill \see{フラグ同期方式}{50}
+  \item ブロック同期\dotfill 48
   \item 平均符号長\dotfill 22
   \item 補数\dotfill 18
 
@@ -159,6 +166,7 @@
   \item ランレングス\dotfill 29
   \item 量子化\dotfill 33
   \item 量子化雑音\dotfill 38
+  \item 連続同期方式\dotfill 48
   \item 連長圧縮\dotfill \see{ランレングス}{29}
 
  \end{theindex}
