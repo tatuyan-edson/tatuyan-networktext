@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  12 OCT 2018 23:40
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  6 NOV 2018 12:48
 entering extended mode
  %&-line parsing enabled.
 **basic.tex
@@ -494,11 +494,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]) [2] (./basic.toc [3
 
-] [4] [5])
+] [4] [5] [6])
 \tf@toc=\write5
 \openout5 = `basic.toc'.
 
- [6]
+ [7]
 第 0 章
 (./chap00.tex
 File: fig/fig0_1.jpg Graphic file (type bmp)
@@ -580,118 +580,145 @@ File: fig/fig4_2.eps Graphic file (type eps)
 File: fig/fig4_3.eps Graphic file (type eps)
  <fig/fig4_3.eps>) [51]
 第 5 章
-[52
+(./chap05.tex [52
 
 ]
+File: fig/fig5_1.eps Graphic file (type eps)
+ <fig/fig5_1.eps> [53] [54]
+File: fig/fig5_2.eps Graphic file (type eps)
+ <fig/fig5_2.eps>
+File: fig/fig5_3.eps Graphic file (type eps)
+
+<fig/fig5_3.eps> [55]
+File: fig/fig5_4.eps Graphic file (type eps)
+ <fig/fig5_4.eps>
+File: fig/fig5_5.eps Graphic file (type eps)
+ <fig/fig5_5.eps> [56] [57]
+Overfull \hbox (4.56297pt too wide) in paragraph at lines 132--133
+[]\JY1/mc/m/n/12 本章内で出てきた全方式 \OT1/cmr/m/n/12 (\JY1/mc/m/n/12 前問の
+差動マンチ ェ スタ方式を含む\OT1/cmr/m/n/12 ) \JY1/mc/m/n/12 について 、 符号語
+ \OT1/cmr/m/n/12 10010011
+ []
+
+
+Overfull \hbox (20.2012pt too wide) in paragraph at lines 134--135
+[]\OT1/cmr/m/n/12 2000 \JY1/mc/m/n/12 年台前半のソフトウ ェ ア公開サイトでは 、
+ 代表的な速度 \OT1/cmr/m/n/12 56kbps(\JY1/mc/m/n/12 モデム\OT1/cmr/m/n/12 ), 64
+kbps(ISDN),
+ []
+
+) [58]
 第 6 章
-[53
-
-]
-第 7 章
-[54
-
-] [55
-
-] [56]
-第 8 章
-[57
-
-]
-第 9 章
-[58
-
-]
-第 10 章
 [59
 
 ]
-第 11 章
+第 7 章
 [60
 
-]
-第 12 章
-[61
+] [61
 
-]
-第 13 章
-[62
-
-]
-第 14 章
+] [62]
+第 8 章
 [63
 
 ]
-第 15 章
+第 9 章
 [64
 
 ]
-第 16 章
+第 10 章
 [65
 
 ]
-第 17 章
+第 11 章
 [66
 
-] [67
+]
+第 12 章
+[67
 
-] [68]
-第 18 章
+]
+第 13 章
+[68
+
+]
+第 14 章
 [69
 
 ]
-第 19 章
+第 15 章
 [70
 
 ]
-第 20 章
+第 16 章
 [71
 
 ]
-第 21 章
+第 17 章
 [72
 
-]
-第 22 章
-[73
+] [73
 
-]
-第 23 章
-[74
-
-]
-第 24 章
+] [74]
+第 18 章
 [75
 
 ]
-第 25 章
+第 19 章
 [76
 
-] [77
+]
+第 20 章
+[77
 
-] [78]
-第 26 章
+]
+第 21 章
+[78
+
+]
+第 22 章
 [79
 
 ]
-第 27 章
+第 23 章
 [80
 
 ]
-第 28 章
-(./basic.ind [81
+第 24 章
+[81
 
-] [82
+]
+第 25 章
+[82
 
 ] [83
 
-]) (./basic.aux) ) 
+] [84]
+第 26 章
+[85
+
+]
+第 27 章
+[86
+
+]
+第 28 章
+[87
+
+]
+付録 A 
+(./AppendixA.tex) (./basic.ind [88
+
+] [89
+
+] [90]) (./basic.aux) ) 
 Here is how much of TeX's memory you used:
- 5434 strings out of 493693
- 73260 string characters out of 6149787
+ 5455 strings out of 493693
+ 73485 string characters out of 6149787
  221619 words of memory out of 5000000
- 8813 multiletter control sequences out of 15000+600000
+ 8823 multiletter control sequences out of 15000+600000
  31504 words of font info for 123 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  27i,11n,49p,1006b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (90 pages, 320920 bytes).
+Output written on basic.dvi (98 pages, 352128 bytes).

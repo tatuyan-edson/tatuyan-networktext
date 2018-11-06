@@ -89,30 +89,44 @@
 \contentsline {subsection}{\numberline {4.2.1}キャラクタ同期方式}{50}
 \contentsline {subsection}{\numberline {4.2.2}フラグ同期方式（フレーム同期方式）}{50}
 \contentsline {chapter}{\numberline {第5章}ベースバンド伝送}{52}
-\contentsline {chapter}{\numberline {第6章}搬送波を用いた伝送}{53}
-\contentsline {chapter}{\numberline {第7章}エラー制御}{54}
-\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{55}
-\contentsline {chapter}{\numberline {第8章}通信プロトコル}{57}
-\contentsline {chapter}{\numberline {第9章}ネットワークの構成}{58}
-\contentsline {chapter}{\numberline {第10章}ネットワークアーキテクチャ}{59}
-\contentsline {chapter}{\numberline {第11章}ネットワーク機器}{60}
-\contentsline {chapter}{\numberline {第12章}Layer1：物理層}{61}
-\contentsline {chapter}{\numberline {第13章}Layer2：データリンク層}{62}
-\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (1)IPとアドレス}{63}
-\contentsline {chapter}{\numberline {第15章}Layer3：ネットワーク層 (2)ルーティング}{64}
-\contentsline {chapter}{\numberline {第16章}Layer4：トランスポート層}{65}
-\contentsline {chapter}{\numberline {第17章}Layer5～7：上位3層}{66}
-\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{67}
-\contentsline {chapter}{\numberline {第18章}ネットワークモデル・再論}{69}
-\contentsline {chapter}{\numberline {第19章}telnet}{70}
-\contentsline {chapter}{\numberline {第20章}DNS}{71}
-\contentsline {chapter}{\numberline {第21章}DHCP}{72}
-\contentsline {chapter}{\numberline {第22章}FTP}{73}
-\contentsline {chapter}{\numberline {第23章}HTTP}{74}
-\contentsline {chapter}{\numberline {第24章}メールに纏わるプロトコル}{75}
-\contentsline {chapter}{\numberline {第25章}認証に纏わるプロトコル}{76}
-\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{77}
-\contentsline {chapter}{\numberline {第26章}冗長化}{79}
-\contentsline {chapter}{\numberline {第27章}セキュリティ}{80}
-\contentsline {chapter}{\numberline {第28章}トラブルシューティング手法の基礎}{81}
+\contentsline {section}{\numberline {5.1}信号伝送方式}{52}
+\contentsline {section}{\numberline {5.2}ベースバンド伝送方式}{52}
+\contentsline {subsection}{\numberline {5.2.1}ベースバンド伝送方式の要件}{52}
+\contentsline {subsection}{\numberline {5.2.2}ベースバンド伝送方式の特徴}{53}
+\contentsline {subsection}{\numberline {5.2.3}ベースバンド伝送方式の分類}{53}
+\contentsline {subsubsection}{RZとNRZ}{53}
+\contentsline {subsubsection}{両極方式と単極方式}{53}
+\contentsline {subsubsection}{バイポーラ方式}{54}
+\contentsline {subsubsection}{差分方式}{55}
+\contentsline {subsubsection}{ダイコード方式}{56}
+\contentsline {subsubsection}{マンチェスター/ダイパルス方式}{56}
+\contentsline {section}{\numberline {5.3}伝送速度}{56}
+\contentsline {subsection}{\numberline {5.3.1}【補足】単位の接頭辞}{57}
+\contentsline {chapter}{\numberline {第6章}帯域伝送}{59}
+\contentsline {chapter}{\numberline {第7章}エラー制御}{60}
+\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{61}
+\contentsline {chapter}{\numberline {第8章}通信プロトコル}{63}
+\contentsline {chapter}{\numberline {第9章}ネットワークの構成}{64}
+\contentsline {chapter}{\numberline {第10章}ネットワークアーキテクチャ}{65}
+\contentsline {chapter}{\numberline {第11章}ネットワーク機器}{66}
+\contentsline {chapter}{\numberline {第12章}Layer1：物理層}{67}
+\contentsline {chapter}{\numberline {第13章}Layer2：データリンク層}{68}
+\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (1)IPとアドレス}{69}
+\contentsline {chapter}{\numberline {第15章}Layer3：ネットワーク層 (2)ルーティング}{70}
+\contentsline {chapter}{\numberline {第16章}Layer4：トランスポート層}{71}
+\contentsline {chapter}{\numberline {第17章}Layer5～7：上位3層}{72}
+\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{73}
+\contentsline {chapter}{\numberline {第18章}ネットワークモデル・再論}{75}
+\contentsline {chapter}{\numberline {第19章}telnet}{76}
+\contentsline {chapter}{\numberline {第20章}DNS}{77}
+\contentsline {chapter}{\numberline {第21章}DHCP}{78}
+\contentsline {chapter}{\numberline {第22章}FTP}{79}
+\contentsline {chapter}{\numberline {第23章}HTTP}{80}
+\contentsline {chapter}{\numberline {第24章}メールに纏わるプロトコル}{81}
+\contentsline {chapter}{\numberline {第25章}認証に纏わるプロトコル}{82}
+\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{83}
+\contentsline {chapter}{\numberline {第26章}冗長化}{85}
+\contentsline {chapter}{\numberline {第27章}セキュリティ}{86}
+\contentsline {chapter}{\numberline {第28章}トラブルシューティング手法の基礎}{87}
+\contentsline {chapter}{\numberline {付録A}解答例・解説}{88}
 \contentsfinish 

@@ -39,6 +39,11 @@
   \item LZ78\dotfill 27
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small N\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item NRZ方式\dotfill 53
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small O\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item octet\dotfill 17
@@ -48,6 +53,7 @@
 
   \item Request For Comments\dotfill \see{RFC}{8}
   \item RFC\dotfill 8
+  \item RZ方式\dotfill 53
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small S\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
@@ -79,7 +85,9 @@
   \item ガンマ符号\dotfill 25
   \item 基数\dotfill 15
   \item 記数法\dotfill 15
+  \item 基底帯域伝送\dotfill \see{ベースバンド伝送}{52}
   \item キャラクタ同期方式\dotfill 50
+  \item キャリア\dotfill \see{搬送波}{52}
   \item 口伝\dotfill 2
   \item 位取り記数法\dotfill 15
   \item 固定小数点数表現\dotfill 21
@@ -89,6 +97,7 @@
 
   \item 雑音\dotfill 43
   \item 差分圧縮\dotfill 29
+  \item 差分方式\dotfill 55
   \item サンプリング周波数\dotfill 36
   \item サンプリング定理\dotfill \see{標本化定理}{36}
   \item シーザー暗号\dotfill 9
@@ -111,10 +120,15 @@
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item 帯域伝送\dotfill \see{ブロードバンド伝送}{52}
+  \item ダイコード方式\dotfill 56
+  \item ダイパルス方式\dotfill \see{マンチェスター方式}{56}
+  \item 単極方式\dotfill 53
   \item 単方向通信\dotfill 45
   \item 調歩同期方式\dotfill 48
   \item デルタ圧縮\dotfill 29
   \item 伝送基準\dotfill 44
+  \item 伝送速度\dotfill 56
   \item 動的辞書法\dotfill 27
 
   \indexspace
@@ -130,8 +144,10 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item バイト対符号化\dotfill 27
+  \item バイポーラ方式\dotfill 54
   \item 白色雑音\dotfill 43
   \item ハフマン符号\dotfill 26
+  \item 搬送波\dotfill 52
   \item 半二重通信\dotfill 45
   \item 非可逆圧縮\dotfill 23
   \item ビット同期\dotfill 48
@@ -144,13 +160,16 @@
   \item 浮動小数点数表現\dotfill 21
   \item フラグ同期方式\dotfill 50
   \item フレーム同期方式\dotfill \see{フラグ同期方式}{50}
+  \item ブロードバンド伝送\dotfill 52
   \item ブロック同期\dotfill 48
   \item 平均符号長\dotfill 22
+  \item ベースバンド伝送\dotfill 52
   \item 補数\dotfill 18
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ま\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
+  \item マンチェスター方式\dotfill 56
   \item モールス符号\dotfill 19
   \item 文字コード\dotfill 19
 
@@ -164,6 +183,7 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ら\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item ランレングス\dotfill 29
+  \item 両極方式\dotfill 53
   \item 量子化\dotfill 33
   \item 量子化雑音\dotfill 38
   \item 連続同期方式\dotfill 48
