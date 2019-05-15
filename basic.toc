@@ -102,31 +102,44 @@
 \contentsline {subsubsection}{マンチェスター/ダイパルス方式}{56}
 \contentsline {section}{\numberline {5.3}伝送速度}{56}
 \contentsline {subsection}{\numberline {5.3.1}【補足】単位の接頭辞}{57}
-\contentsline {chapter}{\numberline {第6章}帯域伝送}{59}
-\contentsline {chapter}{\numberline {第7章}エラー制御}{60}
-\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{61}
-\contentsline {chapter}{\numberline {第8章}通信プロトコル}{63}
-\contentsline {chapter}{\numberline {第9章}ネットワークの構成}{64}
-\contentsline {chapter}{\numberline {第10章}ネットワークアーキテクチャ}{65}
-\contentsline {chapter}{\numberline {第11章}ネットワーク機器}{66}
-\contentsline {chapter}{\numberline {第12章}Layer1：物理層}{67}
-\contentsline {chapter}{\numberline {第13章}Layer2：データリンク層}{68}
-\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (1)IPとアドレス}{69}
-\contentsline {chapter}{\numberline {第15章}Layer3：ネットワーク層 (2)ルーティング}{70}
-\contentsline {chapter}{\numberline {第16章}Layer4：トランスポート層}{71}
-\contentsline {chapter}{\numberline {第17章}Layer5～7：上位3層}{72}
-\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{73}
-\contentsline {chapter}{\numberline {第18章}ネットワークモデル・再論}{75}
-\contentsline {chapter}{\numberline {第19章}telnet}{76}
-\contentsline {chapter}{\numberline {第20章}DNS}{77}
-\contentsline {chapter}{\numberline {第21章}DHCP}{78}
-\contentsline {chapter}{\numberline {第22章}FTP}{79}
-\contentsline {chapter}{\numberline {第23章}HTTP}{80}
-\contentsline {chapter}{\numberline {第24章}メールに纏わるプロトコル}{81}
-\contentsline {chapter}{\numberline {第25章}認証に纏わるプロトコル}{82}
-\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{83}
-\contentsline {chapter}{\numberline {第26章}冗長化}{85}
-\contentsline {chapter}{\numberline {第27章}セキュリティ}{86}
-\contentsline {chapter}{\numberline {第28章}トラブルシューティング手法の基礎}{87}
-\contentsline {chapter}{\numberline {付録A}解答例・解説}{88}
+\contentsline {chapter}{\numberline {第6章}ブロードバンド伝送}{59}
+\contentsline {chapter}{\numberline {第7章}誤り制御}{60}
+\contentsline {section}{\numberline {7.1}誤り制御}{60}
+\contentsline {subsection}{\numberline {7.1.1}誤り制御の簡単な例}{61}
+\contentsline {section}{\numberline {7.2}誤り検出符号}{62}
+\contentsline {subsection}{\numberline {7.2.1}パリティビット}{62}
+\contentsline {subsubsection}{【補遺】パリティチェックの実送信サイズ}{62}
+\contentsline {subsection}{\numberline {7.2.2}チェックディジット}{63}
+\contentsline {subsubsection}{DR型・DSR型}{63}
+\contentsline {subsubsection}{モジュラス・ウェイト型}{64}
+\contentsline {subsection}{\numberline {7.2.3}チェックサム}{65}
+\contentsline {subsection}{\numberline {7.2.4}CRC(巡回冗長検査)}{65}
+\contentsline {section}{\numberline {7.3}誤り訂正符号}{66}
+\contentsline {subsection}{\numberline {7.3.1}ハミング距離による訂正符号}{66}
+\contentsline {subsection}{\numberline {7.3.2}ハミング符号}{67}
+\contentsline {part}{第III部\hspace {1em}コンピュータ・ネットワークの基礎}{70}
+\contentsline {chapter}{\numberline {第8章}通信プロトコル}{72}
+\contentsline {chapter}{\numberline {第9章}ネットワークの構成}{73}
+\contentsline {chapter}{\numberline {第10章}ネットワークアーキテクチャ}{74}
+\contentsline {chapter}{\numberline {第11章}ネットワーク機器}{75}
+\contentsline {chapter}{\numberline {第12章}Layer1：物理層}{76}
+\contentsline {chapter}{\numberline {第13章}Layer2：データリンク層}{77}
+\contentsline {chapter}{\numberline {第14章}Layer3：ネットワーク層 (1)IPとアドレス}{78}
+\contentsline {chapter}{\numberline {第15章}Layer3：ネットワーク層 (2)ルーティング}{79}
+\contentsline {chapter}{\numberline {第16章}Layer4：トランスポート層}{80}
+\contentsline {chapter}{\numberline {第17章}Layer5～7：上位3層}{81}
+\contentsline {part}{第IV部\hspace {1em}ネットワーク・プロトコル}{82}
+\contentsline {chapter}{\numberline {第18章}ネットワークモデル・再論}{84}
+\contentsline {chapter}{\numberline {第19章}telnet}{85}
+\contentsline {chapter}{\numberline {第20章}DNS}{86}
+\contentsline {chapter}{\numberline {第21章}DHCP}{87}
+\contentsline {chapter}{\numberline {第22章}FTP}{88}
+\contentsline {chapter}{\numberline {第23章}HTTP}{89}
+\contentsline {chapter}{\numberline {第24章}メールに纏わるプロトコル}{90}
+\contentsline {chapter}{\numberline {第25章}認証に纏わるプロトコル}{91}
+\contentsline {part}{第V部\hspace {1em}安定通信網の構築と運用}{92}
+\contentsline {chapter}{\numberline {第26章}冗長化}{94}
+\contentsline {chapter}{\numberline {第27章}セキュリティ}{95}
+\contentsline {chapter}{\numberline {第28章}トラブルシューティング手法の基礎}{96}
+\contentsline {chapter}{\numberline {付録A}解答例・解説}{97}
 \contentsfinish 
