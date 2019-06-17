@@ -106,7 +106,7 @@ f_k=\frac{k\pi}{L}
 \end{equation}
 として表される。このとき、三角関数には直交性がある\footnote{2つの関数同士の積を周期積分したとき、同一の関数でなければ0となり、同一の関数であれば0でない有限値となる}ため、式(\ref{eq_2_1})の両辺に適当な周波数成分をかけて周期積分することにより、次のように係数を求めることができる。
 \begin{equation}
-a_k=\int^{L}_{-L} f(x) \cos f_kx dx \quad , \quad b_k=a_k=\int^{L}_{-L} f(x) \sin f_kx dx \label{eq_2_2}
+a_k=\int^{L}_{-L} f(x) \cos f_kx dx \quad , \quad b_k=\int^{L}_{-L} f(x) \sin f_kx dx \label{eq_2_2}
 \end{equation}
 
 アナログデータの再現とは、離散化されたデータを用いて$a_k,b_k$を計算し、元の$f(x)$を得ることである。つまり、アナログデータから変換された後のデジタルデータは$a_k,b_k$を元通り求めるのに必要なデータと言える。なお、この計算は、離散フーリエ変換(discrete Fourier transform,DFT)あるいはそれを高速化した高速フーリエ変換(fast Fourier transform,FFT)と呼ばれる手法による。
