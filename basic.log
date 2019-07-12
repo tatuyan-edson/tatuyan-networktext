@@ -1,7 +1,7 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  15 MAY 2019 21:49
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.19)  12 JUL 2019 21:17
 entering extended mode
  %&-line parsing enabled.
-**basic
+**basic.tex
 (./basic.tex
 pLaTeX2e <2016/05/07> (based on LaTeX2e <2016/03/31>)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
@@ -609,122 +609,138 @@ kbps(ISDN),
 
 ) [58]
 第 6 章
-[59
+(./chap06.tex
+File: fig/fig6_1.eps Graphic file (type eps)
+ <fig/fig6_1.eps> [59
 
-]
+] [60]
+File: fig/fig6_2.png Graphic file (type bmp)
+ <fig/fig6_2.png> [61]
+File: fig/fig6_3.jpg Graphic file (type bmp)
+
+<fig/fig6_3.jpg> [62]
+File: fig/fig6_4.png Graphic file (type bmp)
+ <fig/fig6_4.png> [63]
+File: fig/fig6_5.jpg Graphic file (type bmp)
+ <fig/fig6_5.jpg>
+File: fig/fig6_6.jpg Graphic file (type bmp)
+ <fig/fig6_6.jpg>
+[64] [65] [66] [67]) [68]
 第 7 章
-(./chap07.tex [60
+(./chap07.tex [69
 
-] [61] [62]
+] [70] [71]
 Overfull \hbox (19.01968pt too wide) in paragraph at lines 83--84
 []\JY1/mc/m/n/12 また 、 余りそのものではなく、 割る値に対する基数の補数を付す
 場合もあり、 これを \OT1/cmr/m/n/12 DSR(Divide
  []
 
-[63] [64] [65] [66] [67] [68]) [69] [70
+[72] [73] [74] [75] [76] [77]) [78] [79
 
-] [71]
+] [80]
 第 8 章
-[72
+[81
 
 ]
 第 9 章
-[73
+[82
 
 ]
 第 10 章
-[74
+[83
 
 ]
 第 11 章
-[75
-
-]
-第 12 章
-[76
-
-]
-第 13 章
-[77
-
-]
-第 14 章
-[78
-
-]
-第 15 章
-[79
-
-]
-第 16 章
-[80
-
-]
-第 17 章
-[81
-
-] [82
-
-] [83]
-第 18 章
 [84
 
 ]
-第 19 章
+第 12 章
 [85
 
 ]
-第 20 章
+第 13 章
 [86
 
 ]
-第 21 章
+第 14 章
 [87
 
 ]
-第 22 章
+第 15 章
 [88
 
 ]
-第 23 章
+第 16 章
 [89
 
 ]
-第 24 章
+第 17 章
 [90
 
+] [91
+
+] [92]
+第 18 章
+[93
+
 ]
-第 25 章
-[91
-
-] [92
-
-] [93]
-第 26 章
+第 19 章
 [94
 
 ]
-第 27 章
+第 20 章
 [95
 
 ]
-第 28 章
+第 21 章
 [96
 
 ]
+第 22 章
+[97
+
+]
+第 23 章
+[98
+
+]
+第 24 章
+[99
+
+]
+第 25 章
+[100
+
+] [101
+
+] [102]
+第 26 章
+[103
+
+]
+第 27 章
+[104
+
+]
+第 28 章
+[105
+
+]
 付録 A 
-(./AppendixA.tex) (./basic.ind [97
+(./AppendixA.tex) (./basic.ind [106
 
-] [98
+] [107
 
-] [99]) (./basic.aux) ) 
+] [108] [109
+
+]) (./basic.aux) ) 
 Here is how much of TeX's memory you used:
- 5459 strings out of 493693
- 73523 string characters out of 6149787
+ 5484 strings out of 493693
+ 73775 string characters out of 6149787
  221619 words of memory out of 5000000
- 8824 multiletter control sequences out of 15000+600000
+ 8840 multiletter control sequences out of 15000+600000
  31504 words of font info for 123 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,11n,49p,1002b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,11n,49p,1006b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on basic.dvi (107 pages, 409500 bytes).
+Output written on basic.dvi (117 pages, 466060 bytes).

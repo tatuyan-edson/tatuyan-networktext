@@ -5,20 +5,33 @@
   \item 2の補数\dotfill 18
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small A\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item AM\dotfill \see{振幅変調}{61}
+  \item ARQ\dotfill \see{ARQ}{70}
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small B\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item bit\dotfill 17
+  \item BPSK\dotfill 64
   \item byte\dotfill 17
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small C\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item CBT符号\dotfill 25
+  \item CDM\dotfill \see{符号分割多重化}{68}
+  \item CDMA\dotfill \see{符号分割多重化}{68}
+  \item CRC\dotfill 74
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small F\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item FDD\dotfill \see{周波数分割複信}{47}
+  \item FDM\dotfill 67
+  \item FEC\dotfill \see{FEC}{70}
+  \item FM\dotfill \see{周波数変調}{62}
   \item Fourier展開\dotfill 35
   \item Fourier変換\dotfill 35
 
@@ -49,6 +62,18 @@
   \item octet\dotfill 17
 
   \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small P\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item PCM\dotfill \see{パルス符号変調}{67}
+  \item PM\dotfill \see{位相変調}{63}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small Q\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item QAM\dotfill \see{直交振幅変調}{66}
+  \item QPSK\dotfill 64
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small R\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item Request For Comments\dotfill \see{RFC}{8}
@@ -59,19 +84,30 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small S\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item S/N比\dotfill \see{信号対雑音比}{43}
+  \item SDM\dotfill \see{空間分割多重化}{68}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small T\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item TDD\dotfill \see{時分割複信}{45}
+  \item TDM\dotfill 68
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small W\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item WDM\dotfill \see{波長分割多重化}{67}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item 圧縮\dotfill 22
+  \item 誤り検出符号\dotfill 70
+  \item 誤り制御\dotfill 69
+  \item 誤り訂正符号\dotfill 70
   \item アルファ符号\dotfill 24
   \item 暗号\dotfill 9
   \item 安定基準\dotfill 44
+  \item 位相変調\dotfill 63
   \item インパルス性雑音\dotfill 43
   \item エコーキャンセラ方式\dotfill 47
   \item エンコード\dotfill 17
@@ -83,11 +119,13 @@
   \item 可逆圧縮\dotfill 23
   \item 干渉信号\dotfill 43
   \item ガンマ符号\dotfill 25
+  \item 帰還方式\dotfill 70
   \item 基数\dotfill 15
   \item 記数法\dotfill 15
   \item 基底帯域伝送\dotfill \see{ベースバンド伝送}{52}
   \item キャラクタ同期方式\dotfill 50
   \item キャリア\dotfill \see{搬送波}{52}
+  \item 空間分割多重化\dotfill 68
   \item 口伝\dotfill 2
   \item 位取り記数法\dotfill 15
   \item 固定小数点数表現\dotfill 21
@@ -104,14 +142,20 @@
   \item 辞書式符号\dotfill 27
   \item 10進数\dotfill 15
   \item 10進法\dotfill 15
+  \item 時分割多重化\dotfill 68
   \item 時分割複信\dotfill 45
   \item シャノンの情報源符号化定理\dotfill 26
   \item 周波数\dotfill 35
   \item 周波数スペクトル\dotfill 35
+  \item 周波数分割多重化\dotfill 67
   \item 周波数分割複信\dotfill 47
+  \item 周波数変調\dotfill 62
+  \item 巡回冗長検査\dotfill \see{CRC}{74}
   \item ジョークRFC\dotfill 8
   \item 信号対雑音比\dotfill 43
+  \item 振幅変調\dotfill 61
   \item スニーカーネット\dotfill 42
+  \item 生成多項式\dotfill 75
   \item 接続基準\dotfill 44
   \item 全二重通信\dotfill 46
   \item 増分分解法\dotfill 29
@@ -123,9 +167,13 @@
   \item 帯域伝送\dotfill \see{ブロードバンド伝送}{52}
   \item ダイコード方式\dotfill 56
   \item ダイパルス方式\dotfill \see{マンチェスター方式}{56}
+  \item 多重化\dotfill 67
   \item 単極方式\dotfill 53
   \item 単方向通信\dotfill 45
+  \item チェックサム\dotfill 74
+  \item チェックディジット\dotfill 72
   \item 調歩同期方式\dotfill 48
+  \item 直交振幅変調\dotfill 66
   \item デルタ圧縮\dotfill 29
   \item 伝送基準\dotfill 44
   \item 伝送速度\dotfill 56
@@ -146,7 +194,13 @@
   \item バイト対符号化\dotfill 27
   \item バイポーラ方式\dotfill 54
   \item 白色雑音\dotfill 43
+  \item 波長分割多重化\dotfill 67
   \item ハフマン符号\dotfill 26
+  \item ハミング距離\dotfill 75
+  \item ハミング符号\dotfill 76
+  \item パリティチェック\dotfill 71
+  \item パリティビット\dotfill 71
+  \item パルス符号変調\dotfill 67
   \item 搬送波\dotfill 52
   \item 半二重通信\dotfill 45
   \item 非可逆圧縮\dotfill 23
@@ -156,7 +210,9 @@
   \item 標本化定理\dotfill 36
   \item フィボナッチ符号\dotfill 25
   \item 不可逆圧縮\dotfill 23
+  \item 復調\dotfill 59
   \item 符号化\dotfill 17, 33
+  \item 符号分割多重化\dotfill 68
   \item 浮動小数点数表現\dotfill 21
   \item フラグ同期方式\dotfill 50
   \item フレーム同期方式\dotfill \see{フラグ同期方式}{50}
@@ -164,12 +220,16 @@
   \item ブロック同期\dotfill 48
   \item 平均符号長\dotfill 22
   \item ベースバンド伝送\dotfill 52
+  \item 変調\dotfill 59
+  \item 変調速度\dotfill 65
+  \item 変調度\dotfill 61
   \item 補数\dotfill 18
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ま\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item マンチェスター方式\dotfill 56
+  \item 無帰還方式\dotfill 70
   \item モールス符号\dotfill 19
   \item 文字コード\dotfill 19
 
